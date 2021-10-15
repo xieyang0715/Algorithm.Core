@@ -1,0 +1,16 @@
+D:\CodeStore\Algorithm.Core\Algorithm.Core.QuickSort\bin\Debug\net5.0\Algorithm.Core.QuickSort.exe
+D:\CodeStore\Algorithm.Core\Algorithm.Core.QuickSort\bin\Debug\net5.0\Algorithm.Core.QuickSort.deps.json
+D:\CodeStore\Algorithm.Core\Algorithm.Core.QuickSort\bin\Debug\net5.0\Algorithm.Core.QuickSort.runtimeconfig.json
+D:\CodeStore\Algorithm.Core\Algorithm.Core.QuickSort\bin\Debug\net5.0\Algorithm.Core.QuickSort.runtimeconfig.dev.json
+D:\CodeStore\Algorithm.Core\Algorithm.Core.QuickSort\bin\Debug\net5.0\Algorithm.Core.QuickSort.dll
+D:\CodeStore\Algorithm.Core\Algorithm.Core.QuickSort\bin\Debug\net5.0\ref\Algorithm.Core.QuickSort.dll
+D:\CodeStore\Algorithm.Core\Algorithm.Core.QuickSort\bin\Debug\net5.0\Algorithm.Core.QuickSort.pdb
+D:\CodeStore\Algorithm.Core\Algorithm.Core.QuickSort\obj\Debug\net5.0\Algorithm.Core.QuickSort.csproj.AssemblyReference.cache
+D:\CodeStore\Algorithm.Core\Algorithm.Core.QuickSort\obj\Debug\net5.0\Algorithm.Core.QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeStore\Algorithm.Core\Algorithm.Core.QuickSort\obj\Debug\net5.0\Algorithm.Core.QuickSort.AssemblyInfoInputs.cache
+D:\CodeStore\Algorithm.Core\Algorithm.Core.QuickSort\obj\Debug\net5.0\Algorithm.Core.QuickSort.AssemblyInfo.cs
+D:\CodeStore\Algorithm.Core\Algorithm.Core.QuickSort\obj\Debug\net5.0\Algorithm.Core.QuickSort.csproj.CoreCompileInputs.cache
+D:\CodeStore\Algorithm.Core\Algorithm.Core.QuickSort\obj\Debug\net5.0\Algorithm.Core.QuickSort.dll
+D:\CodeStore\Algorithm.Core\Algorithm.Core.QuickSort\obj\Debug\net5.0\ref\Algorithm.Core.QuickSort.dll
+D:\CodeStore\Algorithm.Core\Algorithm.Core.QuickSort\obj\Debug\net5.0\Algorithm.Core.QuickSort.pdb
+D:\CodeStore\Algorithm.Core\Algorithm.Core.QuickSort\obj\Debug\net5.0\Algorithm.Core.QuickSort.genruntimeconfig.cache
