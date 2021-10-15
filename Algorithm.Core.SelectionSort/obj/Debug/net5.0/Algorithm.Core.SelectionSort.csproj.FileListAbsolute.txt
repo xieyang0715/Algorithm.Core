@@ -1,0 +1,16 @@
+D:\CodeStore\Algorithm.Core\Algorithm.Core.SelectionSort\bin\Debug\net5.0\Algorithm.Core.SelectionSort.exe
+D:\CodeStore\Algorithm.Core\Algorithm.Core.SelectionSort\bin\Debug\net5.0\Algorithm.Core.SelectionSort.deps.json
+D:\CodeStore\Algorithm.Core\Algorithm.Core.SelectionSort\bin\Debug\net5.0\Algorithm.Core.SelectionSort.runtimeconfig.json
+D:\CodeStore\Algorithm.Core\Algorithm.Core.SelectionSort\bin\Debug\net5.0\Algorithm.Core.SelectionSort.runtimeconfig.dev.json
+D:\CodeStore\Algorithm.Core\Algorithm.Core.SelectionSort\bin\Debug\net5.0\Algorithm.Core.SelectionSort.dll
+D:\CodeStore\Algorithm.Core\Algorithm.Core.SelectionSort\bin\Debug\net5.0\ref\Algorithm.Core.SelectionSort.dll
+D:\CodeStore\Algorithm.Core\Algorithm.Core.SelectionSort\bin\Debug\net5.0\Algorithm.Core.SelectionSort.pdb
+D:\CodeStore\Algorithm.Core\Algorithm.Core.SelectionSort\obj\Debug\net5.0\Algorithm.Core.SelectionSort.csproj.AssemblyReference.cache
+D:\CodeStore\Algorithm.Core\Algorithm.Core.SelectionSort\obj\Debug\net5.0\Algorithm.Core.SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeStore\Algorithm.Core\Algorithm.Core.SelectionSort\obj\Debug\net5.0\Algorithm.Core.SelectionSort.AssemblyInfoInputs.cache
+D:\CodeStore\Algorithm.Core\Algorithm.Core.SelectionSort\obj\Debug\net5.0\Algorithm.Core.SelectionSort.AssemblyInfo.cs
+D:\CodeStore\Algorithm.Core\Algorithm.Core.SelectionSort\obj\Debug\net5.0\Algorithm.Core.SelectionSort.csproj.CoreCompileInputs.cache
+D:\CodeStore\Algorithm.Core\Algorithm.Core.SelectionSort\obj\Debug\net5.0\Algorithm.Core.SelectionSort.dll
+D:\CodeStore\Algorithm.Core\Algorithm.Core.SelectionSort\obj\Debug\net5.0\ref\Algorithm.Core.SelectionSort.dll
+D:\CodeStore\Algorithm.Core\Algorithm.Core.SelectionSort\obj\Debug\net5.0\Algorithm.Core.SelectionSort.pdb
+D:\CodeStore\Algorithm.Core\Algorithm.Core.SelectionSort\obj\Debug\net5.0\Algorithm.Core.SelectionSort.genruntimeconfig.cache
