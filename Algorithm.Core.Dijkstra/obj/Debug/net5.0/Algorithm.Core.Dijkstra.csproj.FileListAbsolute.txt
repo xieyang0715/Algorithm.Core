@@ -1,0 +1,16 @@
+D:\CodeStore\Algorithm.Core\Algorithm.Core.Dijkstra\bin\Debug\net5.0\Algorithm.Core.Dijkstra.exe
+D:\CodeStore\Algorithm.Core\Algorithm.Core.Dijkstra\bin\Debug\net5.0\Algorithm.Core.Dijkstra.deps.json
+D:\CodeStore\Algorithm.Core\Algorithm.Core.Dijkstra\bin\Debug\net5.0\Algorithm.Core.Dijkstra.runtimeconfig.json
+D:\CodeStore\Algorithm.Core\Algorithm.Core.Dijkstra\bin\Debug\net5.0\Algorithm.Core.Dijkstra.runtimeconfig.dev.json
+D:\CodeStore\Algorithm.Core\Algorithm.Core.Dijkstra\bin\Debug\net5.0\Algorithm.Core.Dijkstra.dll
+D:\CodeStore\Algorithm.Core\Algorithm.Core.Dijkstra\bin\Debug\net5.0\ref\Algorithm.Core.Dijkstra.dll
+D:\CodeStore\Algorithm.Core\Algorithm.Core.Dijkstra\bin\Debug\net5.0\Algorithm.Core.Dijkstra.pdb
+D:\CodeStore\Algorithm.Core\Algorithm.Core.Dijkstra\obj\Debug\net5.0\Algorithm.Core.Dijkstra.csproj.AssemblyReference.cache
+D:\CodeStore\Algorithm.Core\Algorithm.Core.Dijkstra\obj\Debug\net5.0\Algorithm.Core.Dijkstra.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeStore\Algorithm.Core\Algorithm.Core.Dijkstra\obj\Debug\net5.0\Algorithm.Core.Dijkstra.AssemblyInfoInputs.cache
+D:\CodeStore\Algorithm.Core\Algorithm.Core.Dijkstra\obj\Debug\net5.0\Algorithm.Core.Dijkstra.AssemblyInfo.cs
+D:\CodeStore\Algorithm.Core\Algorithm.Core.Dijkstra\obj\Debug\net5.0\Algorithm.Core.Dijkstra.csproj.CoreCompileInputs.cache
+D:\CodeStore\Algorithm.Core\Algorithm.Core.Dijkstra\obj\Debug\net5.0\Algorithm.Core.Dijkstra.dll
+D:\CodeStore\Algorithm.Core\Algorithm.Core.Dijkstra\obj\Debug\net5.0\ref\Algorithm.Core.Dijkstra.dll
+D:\CodeStore\Algorithm.Core\Algorithm.Core.Dijkstra\obj\Debug\net5.0\Algorithm.Core.Dijkstra.pdb
+D:\CodeStore\Algorithm.Core\Algorithm.Core.Dijkstra\obj\Debug\net5.0\Algorithm.Core.Dijkstra.genruntimeconfig.cache
