@@ -7,7 +7,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithm.Core.QuickSort", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithm.Core.SelectionSort", "Algorithm.Core.SelectionSort\Algorithm.Core.SelectionSort.csproj", "{CC555CC6-9DC9-429C-BBCA-07627DBEC11B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm.Core.Dijkstra", "Algorithm.Core.Dijkstra\Algorithm.Core.Dijkstra.csproj", "{E752FEF6-F7C8-4157-9E6D-B5D137162CFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithm.Core.Dijkstra", "Algorithm.Core.Dijkstra\Algorithm.Core.Dijkstra.csproj", "{E752FEF6-F7C8-4157-9E6D-B5D137162CFA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pdf", "pdf", "{F82C124C-9944-4A5E-9317-024D891DAE68}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\PDF\621533 算法图解.pdf = ..\..\PDF\621533 算法图解.pdf
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
