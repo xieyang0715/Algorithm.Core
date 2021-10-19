@@ -113,7 +113,7 @@ namespace Algorithm.Core.Dijkstra
         public static List<string> NextDealKeys() => new List<string>();
         public static List<string> CurChildsList() => new List<string>();
 
-        #region example1
+        #region example1 请看pic文件夹下例1图片
 
         ////输出：path:start,b,a,end
         ////初始化图节点
@@ -140,7 +140,7 @@ namespace Algorithm.Core.Dijkstra
 
         #endregion
 
-        #region example2
+        #region example2 请看pic文件夹下例2图片
         ////输出：path:start,b,c,end
         ////初始化图节点
         //public static Dictionary<string, Dictionary<string, int>> InitNodes() => new Dictionary<string, Dictionary<string, int>>() {
@@ -171,7 +171,7 @@ namespace Algorithm.Core.Dijkstra
         //};
         #endregion
 
-        #region example3 循环节点
+        #region example3 循环节点  请看pic文件夹下例3图片
 
         //输出：path:start,a,b,end
         //初始化图节点
